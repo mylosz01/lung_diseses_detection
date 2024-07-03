@@ -1,0 +1,11 @@
+'Asthma' - 0
+'Bronchiectasis' -  1
+'Bronchiolitis' - 2
+'COPD' - 3
+'Covid-19' - 4
+'Healthy' - 5
+'Heart_Failure' -  6
+'LRTI' - 7
+'Pneumonia' - 8
+'Symptomatic' - 9
+'URTI' - 10
